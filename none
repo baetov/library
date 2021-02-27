@@ -1,0 +1,15 @@
+[5396] Log opened at 2019-09-21 10:09:54
+[5396] I: Connecting to configured address/port: localhost:9000.
+[5396] E: Time-out connecting to client (Waited: 200 ms). :-(
+[5396] Log closed at 2019-09-21 10:09:54
+[5396]
+[2240] Log opened at 2019-09-21 10:10:19
+[2240] I: Connecting to configured address/port: localhost:9000.
+[2240] E: Time-out connecting to client (Waited: 200 ms). :-(
+[2240] Log closed at 2019-09-21 10:10:19
+[2240]
+[4380] Log opened at 2019-09-21 10:10:25
+[4380] I: Connecting to configured address/port: localhost:9000.
+[4380] E: Time-out connecting to client (Waited: 200 ms). :-(
+[4380] Log closed at 2019-09-21 10:10:25
+[4380]
